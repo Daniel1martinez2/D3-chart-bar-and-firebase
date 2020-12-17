@@ -1,0 +1,26 @@
+[
+    {
+      "name": "veg soup",
+      "orders": 200
+    },
+    {
+      "name": "veg curry",
+      "orders": 500
+    },
+    {
+      "name": "veg pasta",
+      "orders": 300
+    },
+    {
+      "name": "veg surprise",
+      "orders": 900
+    },
+    {
+      "name": "veg alo",
+      "orders": 300
+    },
+    {
+      "name": "veg jeje",
+      "orders": 1200
+    }
+  ]
